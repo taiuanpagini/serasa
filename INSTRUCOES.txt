@@ -1,0 +1,69 @@
+# Acessar a raiz do projeto e rodar YARN INSTALL para instalar as libs e dependências
+# Rodar o comando react-native run-ios
+
+# Após rodar o projeto, na tela de login pedirá usuario e senha, utilizar um dos mencionados abaixo, quando acessar ele fará uma requisição para a api mock e se existir o usuario e a senha for correta ele acessa.
+
+# Cadas usuário tem a tela configurada de acordo com a sua pontuação.
+
+# Todas as requisições são realizadas para a api mock.
+
+{
+    "id": "1",
+    "name": "Reese Thompson",
+    "cpf": "00000000000",
+    "senha": "1234"
+  },
+  {
+    "id": "2",
+    "name": "Athena O'Reilly",
+    "cpf": "69855475412",
+    "senha": "1234"
+  },
+  {
+    "id": "3",
+    "name": "Tiara Blick",
+    "cpf": "03555699874",
+    "senha": "1234"
+  },
+  {
+    "id": "4",
+    "name": "Verner Swift",
+    "cpf": "21355488965",
+    "senha": "1234"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Germaine Bosco",
+    "cpf": "00122588965",
+    "senha": "1234"
+  },
+  {
+    "id": "6",
+    "name": "Sammy Rowe",
+    "cpf": "65489525601",
+    "senha": "1234"
+  },
+  {
+    "id": "7",
+    "name": "Orlo Abshire",
+    "cpf": "00211455987",
+    "senha": "1234"
+  },
+  {
+    "id": "8",
+    "name": "Lauryn Bernhard",
+    "cpf": "63258978547",
+    "senha": "1234"
+  },
+  {
+    "id": "9",
+    "name": "Rosamond Russel",
+    "cpf": "03269865221",
+    "senha": "1234"
+  },
+  {
+    "id": "10",
+    "name": "Liza Bartell V",
+    "cpf": "09874563258",
+    "senha": "1234"
+  }
